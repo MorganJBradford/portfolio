@@ -22,6 +22,9 @@ h3 {
   position: relative;
   left: 188px;
 }
+.job {
+  font-weight: bold;
+}
 .container,
 .container-fluid,
 .container-xxl,
