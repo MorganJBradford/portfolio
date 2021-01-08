@@ -18,12 +18,9 @@ body {
   margin: 0 auto 0 auto;
   display: block;
 }
-h3 {
-  position: relative;
-  left: 188px;
-}
-.job {
-  font-weight: bold;
+.hobbies {
+  height: 200px;
+  width: 200px;
 }
 .container,
 .container-fluid,
