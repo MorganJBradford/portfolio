@@ -1,0 +1,13 @@
+body {
+  background:url(../img/pexels-todd-trapani-1909331.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+.center {
+  text-align: center;
+  -webkit-text-stroke-width: 0.2px;
+  -webkit-text-stroke-color: rgb(255, 255, 255);
+  -moz-text-stroke-width: 0.2px;
+  -moz-text-stroke-color: rgb(255, 255, 255);
+}
