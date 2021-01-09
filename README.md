@@ -11,11 +11,11 @@
 
 ## Description
 
-_{This is a detailed description of your application. Give as much detail as needed to explain what the application does as well as any other information you want users or other developers to have.}_
+_This website serves as Morgan Bradford's ever expanding portfolio for computer programming, and includes: completed projects, work experience, and hobbies._
 
 ## Setup/Installation Requirements
 
-* _Visit the website hosted on GitHub by folliwng this [link](https://morganjbradford.github.io/portfolio/)_
+* _View this content via a website hosted on GitHub by folliwng this [link](https://morganjbradford.github.io/portfolio/)_
 
 **Altenatively**
 
@@ -23,12 +23,10 @@ _{This is a detailed description of your application. Give as much detail as nee
 2. Navigate to the top directory, portfolio
 3. Use your favorite browser to open [index.html](index.html)
 
-_{Leave nothing to chance! You want it to be easy for potential users, employers and collaborators to run your app. Do I need to run a server? How should I set up my databases? Is there other code this application depends on? We recommend deleting the project from your desktop, re-cloning the project from GitHub, and writing down all the steps necessary to get the project working again.}_
-
 ## Known Bugs
 
-* _Any known issues_
-* _should go here_
+* _No known bugs_
+* **If you find any bugs, _please_ contact me via email (listed below)**
 
 ## License
 

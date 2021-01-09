@@ -83,6 +83,7 @@ h4 {
 .column {
   width: 300px;
   float: left;
+  display: inline;
 }
 .pics {
   height: 200px;
