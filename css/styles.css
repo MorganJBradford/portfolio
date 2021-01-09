@@ -65,7 +65,6 @@ body {
   -moz-text-stroke-width: 0.2px;
   -moz-text-stroke-color: rgb(255, 255, 255);
 }
-}
 h4 {
   -webkit-text-stroke-width: 0.2px;
   -webkit-text-stroke-color: rgb(255, 255, 255);
@@ -79,7 +78,6 @@ h4 {
   margin: 0 auto 0 auto;
   display: block;
 }
-}
 .column {
   width: 300px;
   float: left;
@@ -88,4 +86,7 @@ h4 {
 .pics {
   height: 200px;
   width: 200px;
+}
+.bold {
+  font-weight: 900;
 }
