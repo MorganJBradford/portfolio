@@ -36,18 +36,6 @@
     max-width: 1320px;
   }
 }
-.navbar > .container,
-.navbar > .container-fluid,
-.navbar > .container-sm,
-.navbar > .container-md,
-.navbar > .container-lg,
-.navbar > .container-xl,
-.navbar > .container-xxl {
-  display: flex;
-  flex-wrap: inherit;
-  align-items: center;
-  justify-content: space-between;
-}
 body {
   background:url(../img/pexels-todd-trapani-1909331.jpg);
   background-repeat: no-repeat;
@@ -60,7 +48,7 @@ body {
   border-bottom:rgba(255, 255, 255, 0);
   position: relative;
   top: 100px;
-  padding: 20px;
+  padding: 40px;
 }
 .hobmain {
   background-color: rgba(236, 226, 226, 0.5);
@@ -68,7 +56,7 @@ body {
   border-top:rgba(255, 255, 255, 0);
   position: relative;
   top: 100px;
-  padding: 20px;
+  padding: 40px;
 }
 .center {
   text-align: center;
@@ -91,8 +79,12 @@ h4 {
   margin: 0 auto 0 auto;
   display: block;
 }
-.hobbies {
+}
+.column {
+  width: 300px;
+  float: left;
+}
+.pics {
   height: 200px;
   width: 200px;
 }
-
