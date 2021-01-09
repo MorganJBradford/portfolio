@@ -32,11 +32,17 @@ Next, enter the following command 'git clone https://github.com/MorganJBradford/
 The terminal should return with something similar to:
 
 > Cloning into 'portfolio'...
+> 
 > remote: Enumerating objects: 99, done.
+> 
 > remote: Counting objects: 100% (99/99), done.
+> 
 > remote: Compressing objects: 100% (70/70), done.
+> 
 > remote: Total 99 (delta 37), reused 87 (delta 25), pack-reused 0
+> 
 > Receiving objects: 100% (99/99), 2.68 MiB | 4.89 MiB/s, done.
+> 
 > Resolving deltas: 100% (37/37), done.
 
 Next enter the command "ls" which should return with a list of files and directories. Mine returned with:
