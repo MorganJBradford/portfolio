@@ -75,3 +75,8 @@ h4 {
     }
   }
 }
+ul {
+  text-align: justify;
+  position: relative;
+  left: 70px;
+}
