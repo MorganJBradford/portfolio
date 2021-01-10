@@ -80,7 +80,7 @@ ul {
 }
 h4 {
   font-weight: 900;
-  padding-left: 40px;
+  padding-top: 22px;
 }
 a {
   color: black;
@@ -89,5 +89,11 @@ a:hover {
   color: rgba(0, 0, 0, 0.5);
 }
 p {
+  padding-left: 40px;
+}
+ol li {
+  padding-bottom: 6px;
+}
+.pjttl {
   padding-left: 40px;
 }
