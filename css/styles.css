@@ -46,7 +46,7 @@ body {
 .bold {
   font-weight: 900;
   display: block;
-  margin: 48px 0 40px 40px;
+  margin: 80px 0 40px 40px;
 }
 .row {
   --bs-gutter-x: 1.5rem;
@@ -89,7 +89,7 @@ a:hover {
   color: rgba(0, 0, 0, 0.5);
 }
 p {
-  padding-left: 40px;
+  padding: 0 0 0 40px;
   font-size: large;
 }
 ol li {
@@ -102,5 +102,6 @@ ol li {
   height: 250px;
   width: 350px;
   float: left;
-  padding-right: 20px;
+  border: 2px solid black;
+  margin: 0 20px 0 40px;
 }
